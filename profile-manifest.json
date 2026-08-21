@@ -1,0 +1,58 @@
+{
+  "brand": {
+    "name": "NULLFRAME",
+    "discipline": "SOFTWARE · TOOLING · INFRASTRUCTURE",
+    "positioning": "Education platforms, delivery infrastructure, and tooling for reliable AI-assisted engineering. Occasionally, games.",
+    "handle": "OROBASDEV",
+    "revision": "2026.08"
+  },
+  "palettes": {
+    "dark": {
+      "base": "#0B1210",
+      "surface": "#101915",
+      "line": "#2A3631",
+      "text": "#EAF1ED",
+      "muted": "#99A09C",
+      "accent": "#4FC8C4",
+      "warning": "#D9AE62"
+    },
+    "light": {
+      "base": "#F1F5F2",
+      "surface": "#FFFFFF",
+      "line": "#CAD6D0",
+      "text": "#15201C",
+      "muted": "#5F6C66",
+      "accent": "#26736F",
+      "warning": "#895B12"
+    }
+  },
+  "projects": [
+    {
+      "index": "01",
+      "slug": "lecturemind",
+      "name": "LECTUREMIND",
+      "status": "IN DEVELOPMENT",
+      "visibility": "PRIVATE SOURCE",
+      "year": "2026",
+      "rail": "warning"
+    },
+    {
+      "index": "02",
+      "slug": "gate-w",
+      "name": "GATE W",
+      "status": "IN DEVELOPMENT",
+      "visibility": "PRIVATE SOURCE",
+      "year": "2026",
+      "rail": "warning"
+    },
+    {
+      "index": "03",
+      "slug": "bitefight-docker",
+      "name": "BITEFIGHT DOCKER",
+      "status": "ACTIVE RESTORATION",
+      "visibility": "PUBLIC SOURCE",
+      "year": "2026",
+      "rail": "accent"
+    }
+  ]
+}
