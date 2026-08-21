@@ -4,7 +4,7 @@
   <img alt="NullFrame — Software, Tooling, Infrastructure" src="./assets/hero-light.svg" width="100%">
 </picture>
 
-# NullFrame
+# nullframe
 
 **Software · Tooling · Infrastructure**
 
@@ -63,5 +63,4 @@ Education platforms, delivery infrastructure, and tooling for reliable AI-assist
 - `nullframe.sh` — portfolio home in preparation
 - [`@OrobasDev`](https://github.com/OrobasDev) — current GitHub handle
 
-<sub>NullFrame is the engineering identity behind OrobasDev. Profile revision 2026.08. Display assets are generated from a small JSON manifest with outlined SVG text.</sub>
 
